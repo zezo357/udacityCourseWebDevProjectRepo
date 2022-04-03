@@ -14,8 +14,9 @@
   "devDependencies": {
     "react-scripts": "1.0.7"
   },
-  "scripts": {
+    "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "deploy": "chmod +x bin/deploy.sh && bin/deploy.sh"
   }
 }
