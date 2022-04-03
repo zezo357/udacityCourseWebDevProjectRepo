@@ -6,4 +6,5 @@
         "backend:build": "cd reactnd-contacts-server && npm run build",
         "frontend:deploy": "cd reactnd-contacts-complete && npm run deploy"
     }
+	
 }
